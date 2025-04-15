@@ -45,4 +45,8 @@
   <img height="260" src="https://cdn.dribbble.com/userupload/13314637/file/original-b56f8893e8e7a542b12be11632a7f8ac.png?resize=752x&vertical=center"  />
 </div>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Diegoas32/30-nites-of-code)  
+  ![@Diegoas32 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Diegoas32)
+
 ###
